@@ -1,0 +1,15 @@
+﻿'HOLLOW_WORLD.exe'(Win32): 'C:\Users\juneu\source\repos\HOLLOW_WORLD\x64\Debug\HOLLOW_WORLD.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'HOLLOW_WORLD.exe'(Win32): 'C:\Windows\System32\ntdll.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'HOLLOW_WORLD.exe'(Win32): 'C:\Windows\System32\kernel32.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'HOLLOW_WORLD.exe'(Win32): 'C:\Windows\System32\KernelBase.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'HOLLOW_WORLD.exe'(Win32): 'C:\Windows\System32\apphelp.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'HOLLOW_WORLD.exe'(Win32): 'C:\Windows\System32\msvcp140d.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'HOLLOW_WORLD.exe'(Win32): 'C:\Windows\System32\vcruntime140_1d.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'HOLLOW_WORLD.exe'(Win32): 'C:\Windows\System32\vcruntime140d.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'HOLLOW_WORLD.exe'(Win32): 'C:\Windows\System32\ucrtbased.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+27392 스레드가 종료되었습니다(코드: 0 (0x0)).
+'HOLLOW_WORLD.exe'(Win32): 'C:\Windows\System32\kernel.appcore.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'HOLLOW_WORLD.exe'(Win32): 'C:\Windows\System32\msvcrt.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+25352 스레드가 종료되었습니다(코드: 0 (0x0)).
+40640 스레드가 종료되었습니다(코드: 0 (0x0)).
+'[9708] HOLLOW_WORLD.exe' 프로그램이 종료되었습니다(코드: 0 (0x0)).
